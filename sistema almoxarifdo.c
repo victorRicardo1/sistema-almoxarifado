@@ -50,7 +50,7 @@ void cadastros() {
     	 gets(material[h].nome);
     	 printf("Codigo: ");
     	 scanf("%d", &material[h].codigo);
-    	 printf("Descrição: ");
+    	 printf("Descriï¿½ï¿½o: ");
     	 fflush(stdin);
     	 gets(material[h].descricao);
     	 printf("Preco unitario: ");
@@ -101,7 +101,7 @@ void cadastros() {
     	printf("=Nome Locacao: %s\n", locacao[j].nome);
     	printf("=Codigo Locacao: %d\n", locacao[j].nome);
     	printf("=Data Locacao: %s\n", locacao[j].data);
-    	
+    	printf("uepa");
 	}
 }
 
